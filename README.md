@@ -1,0 +1,51 @@
+# html-css-tools-lecture
+
+- Web Inspector
+ - Javascript console
+ - Debugger
+ - Network inspector
+ - Performance Profiling
+ - Emulator/Responsive view
+ - Audits
+ - Timeline
+ - Resources
+ - Remote Debugging
+ - @read https://developer.chrome.com/devtools/docs/videos
+ - @read https://www.codeschool.com/courses/discover-devtools
+ - @read https://www.mozilla.org/en-US/firefox/developer/
+- Online code editors
+  - jsFiddle
+  - jsBin
+- Emmet
+- CSS Frameworks
+  - Blueprint CSS Framework http://blueprintcss.org/
+  - YAML http://www.yaml.de/
+  - Yahoo YUI Grids CSS http://developer.yahoo.com/yui/grids/
+  - Tripoli http://devkick.com/lab/tripoli/
+  - Object-Oriented CSS http://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986
+  - 960 Grid System http://960.gs/
+  - Modernizr
+  - HTML5 Boilerplate
+- CSS Resets
+  - Meyer Reset by Eric Meyer http://meyerweb.com/eric/tools/css/reset/
+  - YUI2: Reset CSS http://developer.yahoo.com/yui/reset/
+  - IECSS http://www.iecss.com/
+  - Normalize.css http://necolas.github.io/normalize.css/
+- Preprocessors
+  - SASS & SCSS http://sass-lang.com/
+  - Less
+  - Stylus
+  - CSS-Crush
+  - Myth
+  - Rework
+  - @read http://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
+- Postprocessors
+  - vendor prefixes
+  - 
+- Compass
+- Jade / Haml
+- Compilers (CodeKit, Compass, Ghostlab, Hammet, Koala, LiveReload, Prepros, Scout)
+- SMACSS
+- BEM
+- Bootstrap, Foundation, Primer, Materialize
+- Grunt, Gulp, WebPack
