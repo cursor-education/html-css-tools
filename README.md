@@ -52,17 +52,32 @@
   - IECSS http://www.iecss.com/
 - Preprocessors
   - SASS & SCSS http://sass-lang.com/
-  - Less
+  - Less http://lesscss.org/
   - Compass
   - Stylus
   - CSS-Crush
   - Myth
   - Rework
-  - Jade / Haml
   - @read http://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
-  - Compilers (CodeKit, Compass, Ghostlab, Hammet, Koala, LiveReload, Prepros, Scout)
+  - Compilers
+   - https://incident57.com/codekit/
+   - http://compass-style.org/
+   - https://responsivedesign.is/resources/testing/ghostlab
+   - http://koala-app.com/
+   - http://livereload.com/
+   - https://prepros.io/
+   - https://mhs.github.io/scout-app/
 - Postprocessors
   - vendor prefixes
+   - https://autoprefixer.github.io/
+   - http://pleeease.io/play/
+  - fallbacks for IE
+  - inlines @import
+  - minifies
+- HTML templates
+ - http://haml.info/docs.html
+ - http://jade-lang.com/
+ - http://slim-lang.com/
 - SMACSS
 - BEM
 - Grunt, Gulp, WebPack
