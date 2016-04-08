@@ -20,8 +20,22 @@
  - jsFiddle
  - jsBin
 - Atom plugins
- - Emmet
+ - https://atom.io/packages
+ - https://atom.io/packages/emmet - http://emmet.io/
+ - https://atom.io/packages/w3c-validation
+ - https://atom.io/packages/autocomplete-plus
+ - https://atom.io/packages/atom-css-unit-converter
+ - https://atom.io/packages/pigments
+ - https://atom.io/packages/color-picker
+ - https://atom.io/packages/caniuse
+ - https://atom.io/packages/livestyle-atom
+ - https://atom.io/packages/minimap
+ - https://atom.io/packages/atom-beautify (ctrl+alt+b)
+ - https://atom.io/packages/git-plus
+ - https://atom.io/packages/javascript-snippets
 - CSS Frameworks
+  - HTML5 Boilerplate https://html5boilerplate.com/
+  - Pure CSS http://purecss.io/
   - Blueprint CSS Framework http://blueprintcss.org/
   - YAML http://www.yaml.de/
   - Yahoo YUI Grids CSS http://developer.yahoo.com/yui/grids/
@@ -29,27 +43,26 @@
   - Object-Oriented CSS http://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986
   - 960 Grid System http://960.gs/
   - Modernizr
-  - HTML5 Boilerplate
+  - http://www.fitgrd.com/
+  - Bootstrap, Foundation, Primer, Materialize
 - CSS Resets
+  - Normalize.css http://necolas.github.io/normalize.css/
   - Meyer Reset by Eric Meyer http://meyerweb.com/eric/tools/css/reset/
   - YUI2: Reset CSS http://developer.yahoo.com/yui/reset/
   - IECSS http://www.iecss.com/
-  - Normalize.css http://necolas.github.io/normalize.css/
 - Preprocessors
   - SASS & SCSS http://sass-lang.com/
   - Less
+  - Compass
   - Stylus
   - CSS-Crush
   - Myth
   - Rework
+  - Jade / Haml
   - @read http://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
+  - Compilers (CodeKit, Compass, Ghostlab, Hammet, Koala, LiveReload, Prepros, Scout)
 - Postprocessors
   - vendor prefixes
-  - 
-- Compass
-- Jade / Haml
-- Compilers (CodeKit, Compass, Ghostlab, Hammet, Koala, LiveReload, Prepros, Scout)
 - SMACSS
 - BEM
-- Bootstrap, Foundation, Primer, Materialize
 - Grunt, Gulp, WebPack
