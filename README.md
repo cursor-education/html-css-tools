@@ -1,6 +1,7 @@
-# html-css-tools-lecture
+# Tools \w Pre/Post -processors
 
 - Web Inspector
+ - Elements
  - Javascript console
  - Debugger
  - Network inspector
@@ -14,9 +15,10 @@
  - @read https://www.codeschool.com/courses/discover-devtools
  - @read https://www.mozilla.org/en-US/firefox/developer/
 - Online code editors
-  - jsFiddle
-  - jsBin
-- Emmet
+ - jsFiddle
+ - jsBin
+- Atom plugins
+ - Emmet
 - CSS Frameworks
   - Blueprint CSS Framework http://blueprintcss.org/
   - YAML http://www.yaml.de/
