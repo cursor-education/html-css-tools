@@ -1,6 +1,6 @@
 ### http://cursor-education.github.io/html-css-tools-lecture
 
-# Tools \w Pre/Post -processors
+# Tools \w pre/post -processors
 
 - **Web Inspector**
   - Chrome DevTools
