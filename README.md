@@ -2,7 +2,7 @@
 
 # Tools \w Pre/Post -processors
 
-- Web Inspector
+- *Web Inspector*
   - Chrome DevTools
     - Elements
       - @read #en https://developer.chrome.com/devtools/docs/dom-and-styles
@@ -34,8 +34,8 @@
    - http://getfirebug.com/
     - @read #ru https://habrahabr.ru/post/50445/
 - Online code editors
- - jsFiddle
- - jsBin
+ - jsFiddle https://jsfiddle.net/
+ - jsBin https://jsbin.com/
 - Atom plugins
  - https://atom.io/packages
  - https://atom.io/packages/emmet - http://emmet.io/
