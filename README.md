@@ -2,7 +2,7 @@
 
 # Tools \w Pre/Post -processors
 
-- *Web Inspector*
+- **Web Inspector**
   - Chrome DevTools
     - Elements
       - @read #en https://developer.chrome.com/devtools/docs/dom-and-styles
@@ -33,24 +33,23 @@
  - Firebug
    - http://getfirebug.com/
     - @read #ru https://habrahabr.ru/post/50445/
-- Online code editors
+- **Online code editors**
  - jsFiddle https://jsfiddle.net/
  - jsBin https://jsbin.com/
-- Atom plugins
+- **Atom plugins**
  - https://atom.io/packages
  - https://atom.io/packages/emmet - http://emmet.io/
+ - https://atom.io/packages/minimap
+ - https://atom.io/packages/git-plus
+ - https://atom.io/packages/javascript-snippets
+ - https://atom.io/packages/atom-beautify (ctrl+alt+b)
  - https://atom.io/packages/w3c-validation
  - https://atom.io/packages/autocomplete-plus
  - https://atom.io/packages/atom-css-unit-converter
- - https://atom.io/packages/pigments
- - https://atom.io/packages/color-picker
+ - https://atom.io/packages/pigments / https://atom.io/packages/color-picker
  - https://atom.io/packages/caniuse
  - https://atom.io/packages/livestyle-atom
- - https://atom.io/packages/minimap
- - https://atom.io/packages/atom-beautify (ctrl+alt+b)
- - https://atom.io/packages/git-plus
- - https://atom.io/packages/javascript-snippets
-- CSS Frameworks
+- **CSS Frameworks**
   - HTML5 Boilerplate https://html5boilerplate.com/
   - Pure CSS http://purecss.io/
   - Blueprint CSS Framework http://blueprintcss.org/
