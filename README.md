@@ -50,23 +50,38 @@
  - https://atom.io/packages/caniuse
  - https://atom.io/packages/livestyle-atom
 - **CSS Frameworks**
-  - HTML5 Boilerplate https://html5boilerplate.com/
-  - Pure CSS http://purecss.io/
-  - Blueprint CSS Framework http://blueprintcss.org/
-  - YAML http://www.yaml.de/
-  - Yahoo YUI Grids CSS http://developer.yahoo.com/yui/grids/
-  - Tripoli http://devkick.com/lab/tripoli/
-  - Object-Oriented CSS http://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986
-  - 960 Grid System http://960.gs/
+  - 960 Grid System
+    - http://960.gs/
+  - HTML5 Boilerplate
+    - https://html5boilerplate.com/ & https://github.com/h5bp/html5-boilerplate
+    - #en http://www.sitepoint.com/introduction-html5-boilerplate/
+  - Pure CSS
+    - http://purecss.io/ & https://github.com/yahoo/pure/
+  - Blueprint CSS Framework
+    - http://blueprintcss.org/
+    - http://blueprintcss.org/tests/
+  - YAML
+    - http://www.yaml.de/
+    - http://www.yaml.de/docs/index.html
+  - Yahoo YUI Grids CSS
+    - http://developer.yahoo.com/yui/grids/
+  - Tripoli
+    - http://devkick.com/lab/tripoli/
+  - Object-Oriented CSS
+    - http://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986
   - Modernizr
   - http://www.fitgrd.com/
-  - Bootstrap, Foundation, Primer, Materialize
-- CSS Resets
+  - Bootstrap
+    - getbootstrap.com/css/
+  - Foundation
+  - Primer
+  - Materialize
+- **CSS Resets**
   - Normalize.css http://necolas.github.io/normalize.css/
   - Meyer Reset by Eric Meyer http://meyerweb.com/eric/tools/css/reset/
   - YUI2: Reset CSS http://developer.yahoo.com/yui/reset/
   - IECSS http://www.iecss.com/
-- Preprocessors
+- **Preprocessors**
   - SASS & SCSS http://sass-lang.com/
   - Less http://lesscss.org/
   - Compass
@@ -83,17 +98,18 @@
    - http://livereload.com/
    - https://prepros.io/
    - https://mhs.github.io/scout-app/
-- Postprocessors
+- **Postprocessors**
   - vendor prefixes
    - https://autoprefixer.github.io/
    - http://pleeease.io/play/
   - fallbacks for IE
   - inlines @import
   - minifies
-- HTML templates
+- **HTML templates**
  - http://haml.info/docs.html
  - http://jade-lang.com/
  - http://slim-lang.com/
-- SMACSS
-- BEM
+- **BEM**
+  - http://cursor-education.github.io/bem-approach-lecture/
 - Grunt, Gulp, WebPack
+  - tbd later
