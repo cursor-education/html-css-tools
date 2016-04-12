@@ -13,6 +13,7 @@
       - @read #en https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
     - Console (js)
       - @read #en https://developer.chrome.com/devtools/docs/console
+      - @read #en https://webkit.org/blog/3516/web-inspector-console-improvements/
     - Debugger
       - @read #en https://developer.chrome.com/devtools/docs/javascript-debugging
       - @read #en https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/add-breakpoints
