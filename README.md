@@ -3,19 +3,36 @@
 # Tools \w Pre/Post -processors
 
 - Web Inspector
- - Elements
- - Javascript console
- - Debugger
- - Network inspector
- - Performance Profiling
- - Emulator/Responsive view
- - Audits
- - Timeline
- - Resources
- - Remote Debugging
- - @read https://developer.chrome.com/devtools/docs/videos
- - @read https://www.codeschool.com/courses/discover-devtools
- - @read https://www.mozilla.org/en-US/firefox/developer/
+ - Chrome DevTools
+  - Elements
+   - @read #en https://developer.chrome.com/devtools/docs/dom-and-styles
+   - @read #en https://thewc.co/articles/view/web-inspector-tutorial
+   - @read #en http://cs.brown.edu/courses/cs132/resources/inspector/
+  - Network inspector
+   - @read #en https://developer.chrome.com/devtools/docs/network
+   - @read #en https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+  - Console (js)
+   - @read #en https://developer.chrome.com/devtools/docs/console
+  - Debugger
+   - @read #en https://developer.chrome.com/devtools/docs/javascript-debugging
+   - @read #en https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints/add-breakpoints
+  - Performance Profiling
+  - Emulator/Responsive view
+   - @read #en https://developer.chrome.com/devtools/docs/device-mode
+   - @read #en https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/
+   - @read #en http://www.joostrap.com/support/tutorials-videos/204-testing-your-responsive-web-design-with-chrome-developer-mobile-emulator-tool
+  - Audits
+  - Timeline
+  - Resources
+  - Remote Debugging
+   - @read #en https://developer.chrome.com/devtools/docs/remote-debugging
+  - @read #ru https://habrahabr.ru/post/143767/
+  - @read https://developer.chrome.com/devtools/docs/videos
+  - @read https://www.codeschool.com/courses/discover-devtools
+  - @read https://www.mozilla.org/en-US/firefox/developer/
+ - Firebug
+  - http://getfirebug.com/
+  - @read #ru https://habrahabr.ru/post/50445/
 - Online code editors
  - jsFiddle
  - jsBin
